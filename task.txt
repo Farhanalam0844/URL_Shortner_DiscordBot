@@ -1,0 +1,24 @@
+1- project
+2-mvc
+2.1 model
+2.2 routes
+
+3 url chortner controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+url in ejs
+
+static router
